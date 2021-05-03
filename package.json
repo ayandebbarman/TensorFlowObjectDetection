@@ -1,0 +1,16 @@
+{
+  "name": "tf_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-automl": "^1.1.0",
+    "@tensorflow/tfjs-node": "^3.6.1"
+  }
+}
